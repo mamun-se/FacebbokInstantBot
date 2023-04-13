@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "meena-game",
+  "private_key_id": "b0d0d7ac65f0b79dd4d729537a9db2ee9c314154",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8EaPlFri8+1+W\nBdEaQqRGDq60YeYIvCAez7w9VURvEW0FBnyP9nwBxpNpEDO+N2E7wz2vruIiJ6KZ\nJkOfu6m0BRj3HlEKMSGdKEqwlk52JEA40kl1IUAmojBDBGJeKRbgL/2y/kInb+BM\nmkKqAmxJrf80RBKfBPzP/zV6AHs4irkn02ybERE3chp2RtULkM49KSS4WMPQWWAe\nBQKKm58UOsjl3WgnBqcCL6GScis27FHjqg5Ta2CivdQoDJyDxIm8aW59M2qDPLZB\nayDr1sPvaxXUg+KwI583BJbMH7IHd8aT/hBwqJIkopAseexDZYI1HIl3Z6e3yexB\nGcSyQpFlAgMBAAECggEAWK5cwS6op/xEg2J0ylQ4UAymVsp/BQlof/7mvWkSnujx\nplf7rorEyLWRVw5bx8snX13eHZRybzaPVnYTlyOPjyKENiqmfg7S0d9o8MG/d7f6\nTJDkMIYgUNdTuJY9qDbp4Ybfs2JvYVdAxf5Lhw0jcM7KMyQSP8fDSnUGC2RktjDs\nFEP9SnH9lExXs0NJZvMUTPGJy9sFESkuDcNj7Kl//DdrCyO9h+06j46Rus3/mdaC\nW9RtEgU1qpoV1bZ/fKW5FCv+vOUR+mA5HpN3a4G9JDDKJTcBqnxjTf4AHB8/v8rh\n+DlCA5o3CuGQSpDXdmBqn6GEwOioXVjyKYyBmBjnNQKBgQDu+H9rneq5TJHZGGJ2\nbuJLbs/N1dmDuxhUWd4HAeTLgkI7+eEljTF/eFpUBsOSGklXr67dNgiIiKBj2Lj7\nw7WUvfsRDNi6hNFD63agmYqpQ/TTLnZFLfgqLoDD8M9yNhqr6clcpD6kFENDZlbj\n/Qood1BlqNCHUH5qLBJK/jgHowKBgQDJeIy6XUIcc+CP1gBuIl94rK8nxT1Ttu46\nq61+AaHJvU0T/vDhdRY82LqTjwwtzW66h49kp2+4VaETbnaiZ+PmLLiubqyXoH6F\nQg91Fq81WmMc/3YC02kM4kPnUS7uomnBeoV4Hy97J+9oHCxX4dLJ/05WCZw+apTE\neWR2QquzVwKBgA5FlQaOVdhfNE6s4CSGlsk+gvaeEPGHGPrgqxvsBwgIbYA7ejDN\n7+jW/T4LcV6mZz7vZRgdBAFzd3C/Hr0agRuzBO2NwNvS1tShmWIaCWf2gQajvbh/\n+FQ8lsAc/6aoiIs/2SDJRlxyQVojIIlZMWQdTBXmMR4DtqkMnMMRz7LVAoGBAIl2\nwy51ayJWviXl8i0zLsj7qhcMsSdpbWqCsMGFA4rOqsS18k0iwqWJiuQbekfWH3MO\nA3y98bBoXJsRh8iP8iOe5/O8d+6NB0aNKFbPv4Q7w9yJQU/0R30O9R3jeo5AKsBk\nhKTNQmxZdzQl5OuhnV1N4Xk63WyI9DCKU02Nd/HJAoGBALSp2YNUaKbSA0hu1wga\nK1LSuHCY3K1Nxdy/TgOL5KpNkQDyeeJBwgM+Px7g2WcEQzVFfyuQ1FO4RfvIDq9Q\n/7g5mYLwq5aPPhW33basbepj0/D/+HMNA3bqYgbh//jWNHqUGzreNqfJk2ysK6pB\nwg4FPq3r6+hDn+DKDW4HLLlO\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ru93m@meena-game.iam.gserviceaccount.com",
+  "client_id": "117286175951681595020",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ru93m%40meena-game.iam.gserviceaccount.com"
+}
